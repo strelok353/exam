@@ -5,5 +5,5 @@ describe('Test suite for testing variant10.js', () => {
         const result = 4
         assert.equal(last(arr), result)
       })
-    })
+    })   
   });
